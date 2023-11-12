@@ -1,0 +1,12 @@
+2023-11-01 19:23:20,079:ERROR:search-app:20 is not in list
+Traceback (most recent call last):
+  File "C:\Users\panag\OneDrive\Desktop\python_cf\ch06\log_app.py", line 23, in <module>
+    index = nums.index(num_to_find)
+            ^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: 20 is not in list
+2023-11-01 19:24:20,758:ERROR:search-app:20 is not in list
+Traceback (most recent call last):
+  File "C:\Users\panag\OneDrive\Desktop\python_cf\ch06\log_app.py", line 23, in <module>
+    index = nums.index(num_to_find)
+            ^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: 20 is not in list
